@@ -1,4 +1,4 @@
-🅿️ Sistema Integrado para Estacionamento – Estacione Bem
+Sistema Integrado para Estacionamento – Estacione Bem
 Este projeto tem como objetivo desenvolver e implementar um sistema integrado para gestão de um estacionamento, abrangendo controle de entrada/saída, monitoramento de vagas, pagamentos digitais, emissão de relatórios e uma plataforma amigável para clientes e funcionários.
 
 📑 Sumário
@@ -38,13 +38,13 @@ Plataforma amigável para funcionários e clientes (desktop e mobile)
 
 👥 Equipe do Projeto
 
-Júlia Parreiras
-Ana Guedes
-Kauan Felipe
-Theofilo Mesquita
-Maria Eduarda Romera
+Júlia Parreiras,
+Ana Guedes,
+Kauan Felipe,
+Theofilo Mesquita,
+Maria Eduarda Romera e 
 Suzana Guedes
 
 
-📄 Licença
+Licença:
 Este projeto é acadêmico e não possui fins comerciais.
