@@ -1,0 +1,44 @@
+Especificação de Requisitos de Software (SRS)
+4.1 Visão do Produto
+Aplicação web responsiva (PWA) para gestão de estacionamento: controle de entrada/saída, monitoramento de vagas, integração de pagamentos e relatórios gerenciais.
+
+4.2 Requisitos Funcionais
+• RF-01: Registrar entrada e saída de veículos com cálculo automático de tarifa.
+
+• RF-02: Painel de controle de vagas disponíveis e ocupadas.
+
+• RF-03: Integração com pagamentos via Pix e cartão.
+
+• RF-04: Emissão e exportação de relatórios.
+
+• RF-05: Controle de acesso por perfil (Administrador, Operador, Cliente).
+
+4.3 Requisitos Não Funcionais
+• RNF-01: Disponibilidade alvo 99%.
+
+• RNF-02: Tempo de resposta inferior a 2 segundos.
+
+• RNF-03: Compatibilidade mobile/desktop.
+
+• RNF-04: Conformidade com a LGPD.
+
+5 — Backlog do Projeto (User Stories)
+US-01 — Como Operador, quero registrar entrada por ticket digital para controlar vagas. (3 pontos — Prioridade Alta)
+
+US-02 — Como Operador, quero registrar saída e calcular tarifa para emitir cobrança. (5 pontos — Prioridade Alta)
+
+US-03 — Como Cliente, quero pagar via Pix no app para sair rapidamente. (3 pontos — Prioridade Alta)
+
+US-04 — Como Cliente, quero visualizar vagas disponíveis em tempo real para decidir entrar. (5 pontos — Prioridade Alta)
+
+US-05 — Como Administrador, quero visualizar relatório diário para tomar decisões. (3 pontos — Prioridade Alta)
+
+US-06 — Como Operador, quero pesquisar histórico de transações por placa para conferir pagamentos. (2 pontos — Prioridade Média)
+
+US-07 — Como Administrador, quero exportar relatórios CSV para análise externa. (2 pontos — Prioridade Média)
+
+US-08 — Como Cliente, quero receber recibo por e-mail para comprovação. (2 pontos — Prioridade Média)
+
+US-09 — Como Sistema, quero integrar reconhecimento de placa para automatizar entradas. (8 pontos — Prioridade Baixa)
+
+US-10 — Como Operador, quero editar tarifa manualmente para casos especiais. (1 pontos — Prioridade Baixa)
