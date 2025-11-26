@@ -1,0 +1,21 @@
+1 — Declaração de Escopo do Projeto
+Projeto: Sistema Integrado para Estacionamento — Estacione Bem.
+Patrocinador: Proprietário do Estacione Bem.
+Gerente do Projeto: (inserir nome do gerente).
+
+Visão resumida: desenvolver e implementar um sistema integrado para controle de entrada/saída, gestão de vagas, pagamentos digitais e emissão de relatórios, acessível via desktop e mobile.
+
+Entregas (escopo)
+• Levantamento e documentação de requisitos.
+• Protótipo de telas (mín. 10 telas) + storyboard.
+• Backlog em formato de user stories pontuadas e priorizadas.
+• Implementação (MVP): controle de entrada/saída, gestão de vagas, integração de pagamentos, painel de relatórios.
+• Testes, homologação e treinamento da equipe.
+• Repositório GitHub com código e instruções.
+
+Limitações / Exclusões
+• Integração com hardware proprietários não fornecidos pelo cliente.
+• Desenvolvimento de app nativo multiplataforma completo (o MVP cobre web responsiva e PWA).
+
+Critérios de aceitação
+• Sistema implantado e demonstrando redução de 30% no tempo de atendimento e aumento de 20% na ocupação.
